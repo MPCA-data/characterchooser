@@ -19,10 +19,10 @@ library(haracterchooser)
 
 charcterchooser()
 ```
->  1] ""
+>  1] "The best character in the whole wide world of Star Wars is SHMI SKYWALKER!!! No contest. At all."
 
 
-Choose yourself...
+Choose for yourself. _(feature coming soon, sponsored by the Dark Side...)_
 ```r
 charcterchooser("Yoda")
 ```
