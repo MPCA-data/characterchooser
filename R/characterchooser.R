@@ -19,7 +19,7 @@ characterchooser <- function(my_fave = character) {
 
   favorite_char <- toupper(favorite_char)
 
-  msg <- paste0("The best character in the whole wide world of Star Wars is ", favorite_char, "!!! No contest. At all.")
+  msg <- paste0("The best character in the whole wide universe of Star Wars is ", favorite_char, "!!! No contest. At all.")
 
   print(msg)
 
