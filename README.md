@@ -27,7 +27,7 @@ Or choose for yourself _(brought to you by the Dark Side)_...
 ```r
 charcterchooser("Yoda")
 ```
-> [1] ""
+> [1] "Feature coming soon to a galaxy near you"
 
 
 ```r
