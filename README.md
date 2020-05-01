@@ -15,7 +15,7 @@ install_github("MPCA-data/characterchooser")
 
 Let the FORCE choose for you...
 ```r
-library(haracterchooser)
+library(characterchooser)
 
 charcterchooser()
 ```
