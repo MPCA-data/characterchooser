@@ -21,8 +21,9 @@ charcterchooser()
 ```
 >  1] "The best character in the whole wide universe of Star Wars is SHMI SKYWALKER!!! No contest. At all."
 
+<br>
 
-Choose for yourself. _(feature coming soon, sponsored by the Dark Side...)_
+Or choose for yourself _(brought to you by the Dark Side)_...
 ```r
 charcterchooser("Yoda")
 ```
