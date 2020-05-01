@@ -30,6 +30,7 @@ charcterchooser("Yoda")
 > [1] "Feature coming soon to a galaxy near you"
 
 
+## Help
 ```r
 ?charcterchooser
 ```
